@@ -1,17 +1,25 @@
 import React from 'react'
 import Navbar from '../Navbar/Navbar';
-import Box from '../Box/Box';
+import AboutSection from '../Sections/AboutSection';
+import IntroSection from '../Sections/IntroSection';
+import ContactSection from '../Sections/ContactSection';
+import WorkSection from '../Sections/WorkSection';
+import Footer from '../Footer/Footer';
 
 export default function Portfolio() {
     return (
         <div>
             <Navbar/>
             <br/>
-            <Box/>
+            <IntroSection/>
             <br/>
-            <Box/>
+            <AboutSection/>
             <br/>
-            <Box/>
+            <WorkSection/>
+            <br/>
+            <ContactSection/>
+            <br/>
+            <Footer/>
       </div>
     )
 }

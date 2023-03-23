@@ -1,6 +1,7 @@
 import React from 'react'
+import './Section.css';
 
-export default function IntroBox() {
+export default function IntroSection() {
     return (
         <div>
             
