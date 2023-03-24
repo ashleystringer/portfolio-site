@@ -4,7 +4,10 @@ import './Section.css';
 export default function WorkSection() {
     return (
         <div name='work' className="section">
-            Portfolio
+            <div>Portfolio</div>
+            <div>
+                
+            </div>
         </div>
     )
 }

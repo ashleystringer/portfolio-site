@@ -5,5 +5,12 @@
         - the height and width are not fixed
         - 
     */    
+    padding: 10px;
+    margin: auto; /* Is centering the div? */
+    height: 35vh; /* 10em */
+    width: 95%;
+    border: 1px solid rgb(129, 129, 129);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
 }
-

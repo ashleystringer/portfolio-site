@@ -1,0 +1,14 @@
+footer{
+    /*position: fixed;*/
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5em;
+    background-color: var(--footerColor);
+}
+
+footer hr{
+    border: inset;
+    background-color: var(--footerColor);
+    border-width: 0.9px;
+}

@@ -1,0 +1,23 @@
+:root{
+    --backgroundColor: #a1c3ff;
+    --color: #333;
+    --navbarColor: #3474e6;  
+    --navbarHoverColor: rgb(207, 207, 207);
+    --showcaseColor: #0151cc;
+    --boxColor: #0151cc;
+    --footerColor: #3474e6;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: sans-serif;
+}
