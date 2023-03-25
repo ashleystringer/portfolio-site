@@ -3,9 +3,9 @@ import './Section.css';
 
 export default function WorkSection() {
     return (
-        <div name='work' className="section">
+        <div id='portfolio' className="section">
             <div>Portfolio</div>
-            <div>
+            <div className="container">
                 
             </div>
         </div>

@@ -9,8 +9,8 @@
     margin: auto; /* Is centering the div? */
     height: 35vh; /* 10em */
     width: 95%;
-    border: 1px solid rgb(129, 129, 129);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    border: .2px solid rgb(177, 177, 177);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
     display: flex;
     justify-content: center;
 }

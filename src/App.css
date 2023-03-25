@@ -6,6 +6,7 @@
     --showcaseColor: #0151cc;
     --boxColor: #0151cc;
     --footerColor: #3474e6;
+    --footerColor2: #494949;
 }
 
 *{
@@ -20,4 +21,7 @@ html{
 
 body{
     font-family: sans-serif;
+    font-size: 1.2em;
+    color: white;
+    background-color: var(--color);
 }
